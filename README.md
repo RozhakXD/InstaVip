@@ -1,13 +1,8 @@
-### Perintah
+### Perintah Termux : 
     $ apt update -y && apt upgrade -y
     $ pkg install git
-    $ pkg install python
+    $ pkg install python3
     $ git clone https://github.com/RozhakXD/Vipig
     $ cd Vipig
-    $ pip install -r requirements.txt
-    $ python Run.py
-
-### Cara Update
-    $ cd $HOME/Vipig
-    $ git pull
-    $ python Run.py
+    $ pip3 install -r requirements.txt
+    $ python3 Run.py
