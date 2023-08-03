@@ -16,7 +16,7 @@
 
 ##
 
-### What is InstaSub?
+### What is InstaVip?
 [**InstaVip**](https://github.com/RozhakXD/InstaVip) is a script to get followers, likes and comments on Instagram accounts using the help of the [**Vipig.net**](https://vipig.net) website, this script only functions to generate coins automatically. Before you exchange coins for followers you are also required to have enough coins or by doing missions to follow accounts randomly.
 
 ### Termux command?
