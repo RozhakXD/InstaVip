@@ -36,7 +36,7 @@ $ python Run.py
 ```
 
 ### When will the followers, likes, and comments arrive?
-After you have succeeded in buying followers, likes or comments you will immediately get them within 1-7 days, this process can be faster if many users use the Vipig website and generate coins and this process can also take longer if there are no users doing missions.
+You can wait 1-7 days if you have exchanged it for followers, likes or comments, The process depends on the number of Vipig website users or not.
 
 ### Terms of exchanging coins?
 
