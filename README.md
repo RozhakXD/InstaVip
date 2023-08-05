@@ -36,7 +36,7 @@ $ python Run.py
 ```
 
 ### When will the followers, likes, and comments arrive?
-You can wait 1-7 days if you have exchanged it for followers, likes or comments, The process depends on the number of Vipig website users or not.
+You can wait one to seven days. The process depends on the number of Vipig website users or not, Further problems usually occur because you enter the wrong username or posting link.
 
 ### Terms of exchanging coins?
 
