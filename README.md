@@ -66,6 +66,9 @@ Every 36 missions following success you will get around 18k - 19k coins, if not 
 - Account must have at least one follower.
 - Post at least one photo (to prevent the account from being detected as spam).
 
+### Don't want to swap automatically?
+Please enter @username if you have chosen number one, for example: @rozhak_official *This method works so that your coins don't automatically exchange to followers.
+
 ##
 ```python
 print("Good luck hope it works!")
