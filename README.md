@@ -20,7 +20,7 @@
 [**InstaVip**](https://github.com/RozhakXD/InstaVip) is a script to get followers, likes and comments on Instagram accounts using the help of the [**Vipig.net**](https://vipig.net) website, this script only functions to generate coins automatically. Before you exchange coins for followers you are also required to have enough coins or by doing missions to follow accounts randomly.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://youtu.be/ZE4qk92wpuU). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
