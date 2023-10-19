@@ -52,7 +52,7 @@ You can wait one to seven days. The process depends on the number of Vipig websi
 - Don't overcook the account to continue working on the mission, it's best to rest for a few hours so that the Instagram account is safe.
 
 ### Didn't get coins?
-Every 36 missions following success you will get around 18k - 19k coins, if not fulfilled maybe the mission on the Vipig website is running out or your Instagram account has reached the mission limit.
+Every 8 missions following success you will get around 18k - 19k coins, if not fulfilled maybe the mission on the Vipig website is running out or your Instagram account has reached the mission limit.
 
 **Solution :**
 - Do the mission at night around 18.00 - 22.00.
